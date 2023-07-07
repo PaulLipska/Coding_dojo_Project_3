@@ -1,8 +1,6 @@
 # Coding_dojo_Project_3
  SQL project
  
- Part 1
- 
 Part 1: Download several files from IMDB’s movie data set and filter out the subset of moves requested by the stakeholder. https://datasets.imdbws.com/
 Part 2: Use an API to extract box office revenue and profit data to add to your IMDB data and perform exploratory data analysis.
 Part 3: Construct and export a MySQL database using your data.
